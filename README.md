@@ -19,6 +19,6 @@ How To install a theme:
 5: Launch Discord and see if the theme is in the list.
 <p>
 <p>
-there will soon be screenshots of what things will look like.
+There will soon be screenshots of what things will look like.
 
 
