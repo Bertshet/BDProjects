@@ -1,4 +1,4 @@
- BDProjects
+# BDProjects
 BetterDiscord Projects
 
 This is the area with all of my Projects for BetterDiscord.
@@ -6,7 +6,7 @@ This is the area with all of my Projects for BetterDiscord.
 Currently Only have themes.
 <p>
 <p>
-<h1>How To install a theme:</h1>
+# How To install a theme:
 <p>
 1: Go to %appdata%/BetterDiscord/theme
 <br>
