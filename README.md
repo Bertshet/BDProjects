@@ -20,5 +20,6 @@ Currently Only have themes.
 <p>
 <p>
 There will soon be screenshots of what things will look like.
-
+<p>
+The Dark Red and Pinkie themes are based off the Dark Matter theme found here: https://github.com/Jiiks/BetterDiscordApp/wiki/Themes
 
